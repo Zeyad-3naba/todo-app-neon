@@ -1,0 +1,7 @@
+# Learn more about Vercel at https://vercel.com/docs/concepts/deployments/overview
+{
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "outputDirectory": ".next"
+}
